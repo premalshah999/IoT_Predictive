@@ -14,14 +14,14 @@ This project implements an end-to-end anomaly detection system using **12 machin
 
 ## Key Features
 
-- ✅ **12 Classification Models** including Random Forest, XGBoost, LightGBM, CatBoost, ensemble methods
-- ✅ **6 Regression Models** for RUL prediction
-- ✅ **Advanced Feature Engineering** - 67 features from 5 raw sensors
-- ✅ **K-Fold Cross-Validation** - Robust 3-5 fold evaluation
-- ✅ **Production-Ready API** - Clean Python interface
-- ✅ **Comprehensive Visualizations** - Auto-generated comparison charts
-- ✅ **Docker Support** - Reproducible environment
-- ✅ **Model Persistence** - Save/load trained models
+-  **12 Classification Models** including Random Forest, XGBoost, LightGBM, CatBoost, ensemble methods
+-  **6 Regression Models** for RUL prediction
+-  **Advanced Feature Engineering** - 67 features from 5 raw sensors
+-  **K-Fold Cross-Validation** - Robust 3-5 fold evaluation
+-  **Production-Ready API** - Clean Python interface
+-  **Comprehensive Visualizations** - Auto-generated comparison charts
+-  **Docker Support** - Reproducible environment
+-  **Model Persistence** - Save/load trained models
 
 ## Quick Start
 
